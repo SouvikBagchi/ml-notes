@@ -12,7 +12,7 @@ This is in stark contrast to just logic based algorithms which can be modeled as
 
 <br>
 
-The idea of machine learning algorithms is not new and has been present since decades but it was during the 1950s when they were first developed. One of the earliest algorithms was developed in 1957/58 by Frank Rosenblatt. The [Perceptron][@1] is a type of artificial neural network that can learn to classify input data into one of two categories. Similarly [*Recurrent Neural Networks(RNN)*][@2] was proposed during the 80s and [*Long Short-Term Memory(LSTMs)*][@3] during the late 90s. But at that time the computation power available was not sufficient to actually make these algorithms work in a feasible manner.
+The idea of machine learning algorithms is not new and has been present since decades but it was during the 1950s when they were first developed. One of the earliest algorithms was developed in 1957/58 by Frank Rosenblatt. The [Perceptron](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf) is a type of artificial neural network that can learn to classify input data into one of two categories. Similarly [*Recurrent Neural Networks(RNN)*](https://apps.dtic.mil/dtic/tr/fulltext/u2/a164453.pdf) was proposed during the 80s and [*Long Short-Term Memory(LSTMs)*](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf) during the late 90s. But at that time the computation power available was not sufficient to actually make these algorithms work in a feasible manner.
 
 <br>
 
@@ -79,7 +79,3 @@ Target refers to what we are trying to predict from the task at hand. For exampl
 ## Final Thoughts
 We are in a very exciting time in our history to be witnessing the rapid growth of machine learning and its uses. It would be a shame for one to not have a basic understanding of ML and how we can leverage it to benefit ourselves and in large our society enabling us to all grow together. 
 
-## Reference
-[@1]:https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf
-[@2]:https://apps.dtic.mil/dtic/tr/fulltext/u2/a164453.pdf
-[@3]:https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf
